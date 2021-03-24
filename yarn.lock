@@ -10988,6 +10988,11 @@ xmlchars@^1.3.1:
   resolved "https://registry.yarnpkg.com/xmlchars/-/xmlchars-1.3.1.tgz#1dda035f833dbb4f86a0c28eaa6ca769214793cf"
   integrity sha512-tGkGJkN8XqCod7OT+EvGYK5Z4SfDQGD30zAa58OcnAa0RRWgzUEK72tkXhsX1FZd+rgnhRxFtmO+ihkp8LHSkw==
 
+xor-js@^1.0.3:
+  version "1.0.3"
+  resolved "https://nexus.rocs.io:8081/repository/npm-registry-npmjs-org/xor-js/-/xor-js-1.0.3.tgz#6516e39f7d073d0079a28593502f32b590884990"
+  integrity sha512-NLHPwM7Gfb3BSQMecfDlet7VnePhtCVq4a29Jmvgudl2dsGeI5c+3OHEjWkDH3D/KAQL+f8ALnFPKMKxV+c7MA==
+
 xtend@^4.0.0, xtend@~4.0.1:
   version "4.0.1"
   resolved "https://registry.yarnpkg.com/xtend/-/xtend-4.0.1.tgz#a5c6d532be656e23db820efb943a1f04998d63af"
